@@ -7,11 +7,12 @@ summary: Intros
 
 ### Wednesday, On Zoom
 
+- [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09) we will meet online for the first two weeks of classes.
 - Introductions and website tour
 - [Syllabus Review](/syllabus)
 - [Code of Conduct creation](https://paper.dropbox.com/doc/S22-Penn-Graphic-Design-Names-and-Code-of-Conduct--BZ3Gc9U_QPH5F7~SQ8WyXdilAQ-rkH72Alu2IHxolZiOxZmz)
 - Students share their intro presentation
-- [Review Junk Mail](projects/junk)
+- [Review Junk Mail](../projects/junk)
 
 ### Homework
 
