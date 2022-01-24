@@ -38,7 +38,7 @@ nikasf@upenn.edu
 
 ### Code of Conduct + Group Agreement
 
-As a class, we will create a group agreement that addresses respect and etiquette in the classroom. Students will be responsible for maintaining this standard throughout the semester. Rutgers is very lucky to have a representative group of students with different backgrounds and cultures. With this comes varying amounts of privilege and awareness, so it is important that we practice patience and empathy in the classroom. We must all continuously learn, be open to criticism, develop a consciousness about these discrepancies, and actively seeking equity and allyship in the classroom and beyond.
+As a class, we will create a group agreement that addresses respect and etiquette in the classroom. Students will be responsible for maintaining this standard throughout the semester. The University of Pennsylvania is very lucky to have a representative group of students with different backgrounds and cultures. With this comes varying amounts of privilege and awareness, so it is important that we practice patience and empathy in the classroom. We must all continuously learn, be open to criticism, develop a consciousness about these discrepancies, and actively seeking equity and allyship in the classroom and beyond.
 
 [View our code of conduct](https://paper.dropbox.com/doc/S22-Penn-Graphic-Design-Names-and-Code-of-Conduct--BZ3Gc9U_QPH5F7~SQ8WyXdilAQ-rkH72Alu2IHxolZiOxZmz)
 

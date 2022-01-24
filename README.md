@@ -1,4 +1,4 @@
-# Design 1B: Form and Meaning
+# Graphic Design (DSGN 266)
 
 ## Lectures
 
