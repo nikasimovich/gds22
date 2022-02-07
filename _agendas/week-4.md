@@ -11,10 +11,9 @@ summary: Typography, Recording Tips, InDesign, Adobe Audition
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Penn-Graphic-Design-Week-4-Typography-and-Recording--Bbfhn7SqwzHpfT3p7uE9rQEPAQ-3bsN83AM5tdeeIxHme5X0)
 - Typography discussion
 - InDesign work session
-- Audition work session
 
 ### Homework
-- Bring in a complete draft of your project. Please include three options for the typeset card, and a rough cut of your audio file. Project is due in 2 weeks.
+- Bring in a complete draft of your project. Please include three options for the typeset card, and your audio recordings (no need to cut or edit them, we&rsquo;ll work on this in class.) Project is due in 2 weeks.
 
 
 ---
