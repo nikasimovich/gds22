@@ -2,7 +2,7 @@
 title:            Week 3
 start_date:       2020-01-26 00:00:00 -0500
 date_range:       01/31
-summary: Writing for sound, 
+summary: Writing for sound, Audio examples 
 ---
 
 ### Monday, In Person
