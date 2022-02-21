@@ -9,7 +9,7 @@ summary: Soundscapes critique, Introduce Looping Projection, Continue work on ty
 ### Monday, In Person
 
 - [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09) for anyone who is not able to attend in person.
-- [Today&rsquo;s Notes and Critique Info](https://paper.dropbox.com/doc/Penn-Graphic-Design-Week-5-Recording-and-Editing-Audio--Bb6sLiipY~FDi~OLjXXsmihtAQ-Vlp3XdMLvDIF0GvoQzk4P)
+- [Today&rsquo;s Notes and Critique Info](https://paper.dropbox.com/doc/Penn-Graphic-Design-Week-6-Soundscapes-Critique--BcVITNnf5Bklt2uksOd1nsBVAQ-l5hE5W4MWmsyf7n3bZxLW)
 - Critique and overview of projects
 - Continue working on typography drill
 
