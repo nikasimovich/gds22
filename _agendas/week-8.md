@@ -2,7 +2,7 @@
 title:            Week 8
 start_date:       2020-01-26 00:00:00 -0500
 date_range:       03/14
-summary: Introduce Looping Projection, Continue work on type drill, After Effects demo
+summary: Design systems
 
 ---
 
